@@ -13,17 +13,17 @@
 
     <form method=POST>
     <div class="usuario">
-    <p>Ingresa tu Correo Electronico:
+    <label>Ingresa tu Correo Electronico:</label>
     <input type="email" name="mail"> <br>
     </div>
 
     <div class="contraseña">
-    <p>Contraseña:
+    <label>Contraseña:</label>
     <input type="password" name="contraseñas"> <br>
     </div>
 
     <div class="confirmacion">
-    <p>Confirmar contraseña:
+    <label>Confirmar contraseña:</label> 
     <input type="password" name="confirmar"> <br>
     </div>
 
@@ -32,7 +32,10 @@
     <br>
     </div>
 
-    <p><a href="http://localhost/ANTEPROYECTO/login.php">Iniciar Sesión</a></p>
+    <div class="link">
+    <span> Ya tenes cuenta? <a href="http://localhost/ANTEPROYECTO/login.php">Iniciar Sesión</a></span>
+    </div>
+
     </form>
 
     </div>
