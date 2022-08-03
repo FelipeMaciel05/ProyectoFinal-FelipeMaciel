@@ -13,17 +13,17 @@
 
     <form method=POST>
     <div class="usuario">
-    <label>Ingresa tu Correo Electronico:</label>
+    <label>Ingresa tu Correo Electronico</label>
     <input type="email" name="mail"> <br>
     </div>
 
     <div class="contraseña">
-    <label>Contraseña:</label>
+    <label>Contraseña</label>
     <input type="password" name="contraseñas"> <br>
     </div>
 
     <div class="confirmacion">
-    <label>Confirmar contraseña:</label> 
+    <label>Confirmar contraseña</label> 
     <input type="password" name="confirmar"> <br>
     </div>
 

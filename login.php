@@ -13,12 +13,12 @@
       <form method=POST> 
     
       <div class="usuario">
-      <label>Correo Electronico:</label> 
+      <label>Correo Electronico</label> 
       <input type="email" name="mail"> <br>
       </div>
 
       <div class="contraseña">
-      <label>Contraseña:</label>
+      <label>Contraseña</label>
       <input type="password" name="contraseña"> <br>
       </div>
       
