@@ -30,36 +30,19 @@ body{
      position:relative;
      margin:30px 0;
  }
- .usuario label{
-    position: absolute;
-    top: 50%;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    font-size: 16px;
-    transition: .5s;
- }
  form .contraseña{
     position:relative;
     margin:20px 0;
  }
- .contraseña label{
-    position: absolute;
-    top: 50%;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    font-size: 16px;
- }
  .usuario input{
-      width:100%;
+      width:98%;
       height:40px;
       font-size:16px;
  }
  .contraseña input{
-    width:100%;
+    width:98%;
     height:40px;
-    font-size:30px;
+    font-size:16px;
  }
  input[type="submit"]{
     width:100%;

@@ -37,51 +37,28 @@ form .confirmacion{
    position:relative;
    margin:5px 0;
 }
-.usuario label{
-    position: absolute;
-    top: 50%;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    font-size: 16px;
-    transition: .5s;
- }
- .contraseña label{
-    position: absolute;
-    top: 50%;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    font-size: 16px;
- }
- .confirmacion label{
-    position: absolute;
-    top: 50%;
-    left: 5px;
-    color: #adadad;
-    transform: translateY(-50%);
-    font-size: 16px;
- }
 .usuario input{
-    width:100%;
-    padding:0 0px;
+   position: relative;
+    width:98%;
+    padding:0 4px;
     height:45px;
     font-size:16px;
-    border:1px solid rgb(54, 52, 52);
+    border:1px solid rgb(112, 107, 107);
 }
 .contraseña input{
-    width:100%;
-    padding:0 0px;
+   position: relative;
+   width:98%;
+   padding:0 4px;
     height:45px;
-    font-size:30px;
-    border:1px solid rgb(54, 52, 52);
+    font-size:16px;
+    border:1px solid rgb(112, 107, 107);
 }
 .confirmacion input{
-    width:100%;
-    padding:0 0px;
+   width:98%;
+   padding:0 4px;
     height:45px;
-    font-size:30px;
-    border:1px solid rgb(54, 52, 52);
+    font-size:16px;
+    border:1px solid rgb(112, 107, 107);
 }
 input[type="submit"]{
     width:100%;
@@ -92,7 +69,7 @@ input[type="submit"]{
     border-radius: 25px;
     color: rgb(255, 255, 255);
     position:relative;
-    margin:40px 0;
+    margin:35px 0;
  }
  input[type="submit"]:hover{
     border-color:rgb(0, 0, 0);

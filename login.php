@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LogIn</title>
+    <title>Log In</title>
     <link rel="stylesheet" href="login.css">
 </head>
 <body>
@@ -13,13 +13,11 @@
       <form method=POST> 
     
       <div class="usuario">
-      <label>Correo Electronico</label> 
-      <input type="email" name="mail"> <br>
+      <input type="email" name="mail" placeholder="Correo Electronico" required> <br>
       </div>
 
       <div class="contraseña">
-      <label>Contraseña</label>
-      <input type="password" name="contraseña"> <br>
+      <input type="password" name="contraseña" placeholder="Contraseña" required> <br>
       </div>
       
       <div class="submit">

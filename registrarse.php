@@ -13,22 +13,19 @@
 
     <form method=POST>
     <div class="usuario">
-    <label>Ingresa tu Correo Electronico</label>
-    <input type="email" name="mail"> <br>
+    <input type="email" name="mail" placeholder="Correo Electronico" required> <br>
     </div>
 
     <div class="contraseña">
-    <label>Contraseña</label>
-    <input type="password" name="contraseñas"> <br>
+    <input type="password" name="contraseña" placeholder="Contraseña" required> <br>
     </div>
 
     <div class="confirmacion">
-    <label>Confirmar contraseña</label> 
-    <input type="password" name="confirmar"> <br>
+    <input type="password" name="confirmar" placeholder="Confirmar contraseña" required> <br>
     </div>
 
     <div class="submit">
-    <input type="submit" value="Guardar">
+    <input type="submit" value="Registrarse">
     <br>
     </div>
 
@@ -36,6 +33,7 @@
     <span> Ya tenes cuenta? <a href="http://localhost/ANTEPROYECTO/login.php">Iniciar Sesión</a></span>
     </div>
 
+    
     </form>
 
     </div>
