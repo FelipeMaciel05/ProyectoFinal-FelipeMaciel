@@ -37,5 +37,22 @@
             </nav>
 
         </div> 
+        <div class="piedepagina">
+            <div class="Contactos">
+            <label>Medios de contacto:</label>
+            </div>
+            <div class="ig">
+            <img src="ig.png" width="50">
+            </div>
+            <div class="redit">
+            <img src="redit.png" width="50">
+            </div>
+            <div class="fc">
+            <img src="fc.png" width="50">
+            </div>
+            <div class="copyright">
+                <label class="copyright">Copyright © 2022 ORTLAUNCHER</label>
+            </div>
+        </div>
 </body>
 </html>
