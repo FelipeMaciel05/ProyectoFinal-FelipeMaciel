@@ -37,9 +37,9 @@
             </nav>
 
         </div> 
-        <div class="piedepagina">
+            <footer>
             <div class="Contactos">
-            <label>Medios de contacto:</label>
+            <h2 class="contenedor">Medios de contacto:</h2>
             </div>
             <div class="ig">
             <img src="ig.png" width="50">
@@ -50,9 +50,7 @@
             <div class="fc">
             <img src="fc.png" width="50">
             </div>
-            <div class="copyright">
-                <label class="copyright">Copyright © 2022 ORTLAUNCHER</label>
-            </div>
-        </div>
+            <label class="copyright1">Copyright © 2022 ORTLAUNCHER</label>
+            </footer>
 </body>
 </html>
