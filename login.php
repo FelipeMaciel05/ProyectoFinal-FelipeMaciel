@@ -50,8 +50,9 @@
           <div class="redit">
             <img src="redit.png" width="52px">
           </div>
-          <label class="copy">Ort Lanuncher © Todos los derechos reservados</label>
+          <label class="copy">Ort Launcher © Todos los derechos reservados</label>
           <label class="donar"><a href="http://localhost/ANTEPROYECTO/donaciones.php">Donaciones</a></label>
+          <label class="panas"><a href="nuestra informacion">Sobre Nosotros</a></label>
       </footer>
 
 </body>

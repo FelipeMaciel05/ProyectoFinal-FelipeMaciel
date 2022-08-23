@@ -107,7 +107,7 @@ footer .redit{
    bottom: 40px;
    height: 30px;
    width: 50px;
-   left: 708px;
+   left: 705px;
 }
 footer .copy{
    position: relative;
@@ -127,4 +127,16 @@ footer .donar{
    text-align: center;
    left: 150px;
    top:80px;
+}
+footer .panas{
+   position: relative;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: rgb(92, 88, 88);
+   border-bottom: blanchedalmond;
+   text-align: center;
+   left: 225px;
+   top:80px;
+}
+footer a{
+   color: rgb(92, 88, 88);
 }
