@@ -37,12 +37,22 @@
             </nav>
         </div> 
         
-        <div class="juego1">
-           <label class="j1">Juego 1 ejemplo</label>
-        </div>
+        <div class="juegos">
+            <div class="juego">
+               <label class="j1">Juego 1 ejemplo</label>
+            </div>
+    
+            <div class="juego">
+               <label class="j2">Juego 2 ejemplo</label>
+            </div>
+    
+            <div class="juego">
+               <label class="j3">Juego 3 ejemplo</label>
+            </div>
 
-        <div class="juego2">
-           <label class="j2">Juego 2 ejemplo</label>
+            <div class="juego">
+                <label class="j3">Juego 4 ejemplo</label>
+            </div>
         </div>
 
         <footer>

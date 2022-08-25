@@ -7,7 +7,10 @@ body{
     margin: 10px;
     color: white;
 }
-
+#container a:hover{
+   color:rgb(0, 0, 0);
+   transition:.3s;
+}
 header{
     background: rgb(36, 34, 34);
     height: 80px;
@@ -28,41 +31,48 @@ nav ul li{
         font-size: 20px; 
         line-height: 0px;
 }
-.juego1{
+.juegos{
+   display: flex;
+   justify-content: space-evenly;
+}
+.juego{
     width: 250px;
-    position: relative;
-    top: 15px;
+    position: static;
+    margin-top: 15px;
     border: 1.5px solid black;
     background-color: pink;
-    margin: 12px;
+    margin-left: 12px;
     height: 350px;
 }
-.juego1 label{
+.juego label{
    color: white;
-   position: relative;
+   position: static;
    font-size: 18px;
-   left: 10px;
-   top: 5px;
+   margin-left: 10px;
+   margin-top: 5px;
 }
-.juego2{
+.juego:hover{
+   width: 270px;
+   height: 380px;
+   transition:.3s;
+}
+.juego{
    width: 250px;
-   position: relative;
-   top: 15px;
+   position: static;
+   margin-top: 15px;
    border: 1.5px solid black;
    background-color: pink;
    margin: 12px;
    height: 350px;
-   left: 320px;
-   bottom: 350px;
-   transform: translate(0, -103.5%);
 }
-.juego2 label{
+.juego label{
    color: white;
-   position: relative;
+   position: static;
    font-size: 18px;
-   left: 10px;
-   top: 5px;
+   margin-left: 10px;
+   margin-top: 5px;
 }
+
 footer{
     position: relative;
     right: 8px;
