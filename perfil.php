@@ -12,7 +12,6 @@
             <header>
                 <h1> Ort Launcher</h1>
                 <div class="logo">
-                    <img src="logo terminado.png" width="150px">
                 </div>
             </header>
             
@@ -40,9 +39,17 @@
             </nav>
         </div> 
         <div class="foto">
+            <h3>Perfil</h3>
+        </div>
+        <div class="caja">
             <div class="perfil">
-                <img src="perfil-empty.png" width="400px">
-            </div>     
+                <img src="perfil-empty.png" width="120px">
+            </div>
+            <div class="editar">
+                <a href="pagina para agregar foto"><img src="45406.png" width="30px"></a>
+            </div>
+            <div class="troll"></div>
+            <label>Tu correo electronico es:</label>
         </div>
 
 
