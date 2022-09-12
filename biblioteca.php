@@ -57,8 +57,26 @@
 
         <footer>
             <div class="contenedor">
-                
+                <div class="contactos">
+                    <div class="titulo">
+                        <h2 >Medios de contacto:</h2>
+                    </div>
+                    <div class="foto">
+                        <img src="ig.png" width="50px">
+                        <img src="fc.png" width="50px">
+                        <img src="redit.png" width="50px"><br>
+                    </div>
+                    <div class="derechos">
+                        <label>Ort Launcher © Todos los derechos reservados</label><br>
+                    </div>
+                    <div class="donaciones">
+                        <label class="donar"><a href="http://localhost/ANTEPROYECTO/donaciones.php">Donaciones</a></label>
+                        <label class="panas"><a href="nuestra informacion">Sobre Nosotros</a></label>
+                    </div>
+                    
+                </div>                
             </div>
+            
         </footer>
 </body>
 </html>
