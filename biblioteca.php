@@ -22,7 +22,7 @@
                         <a href= "http://localhost/ANTEPROYECTO/juegosRecomendados.php">Juegos Recomendados</a>
                     </li>
                     <li>
-                        <a href= "http://localhost/ANTEPROYECTO/biblioteca.php">Biblioteca</a>
+                        <a href= "biblioteca.php">Biblioteca</a>
                     </li>
                     <li>
                         <a href= "http://localhost/ANTEPROYECTO/perfil.php">Perfil</a>
@@ -70,7 +70,7 @@
                         <label>Ort Launcher © Todos los derechos reservados</label><br>
                     </div>
                     <div class="donaciones">
-                        <label class="donar"><a href="http://localhost/ANTEPROYECTO/donaciones.php">Donaciones</a></label>
+                        <label class="donar"><a href="donaciones.php">Donaciones</a></label>
                         <label class="panas"><a href="nuestra informacion">Sobre Nosotros</a></label>
                     </div>
                     

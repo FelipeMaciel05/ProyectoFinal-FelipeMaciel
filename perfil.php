@@ -55,20 +55,26 @@
 
         <footer>
             <div class="contenedor">
-                <h2 class="titulo">Medios de contacto:</h2>
+                <div class="contactos">
+                    <div class="titulo">
+                        <h2 >Medios de contacto:</h2>
+                    </div>
+                    <div class="fotos">
+                        <img src="ig.png" width="50px">
+                        <img src="fc.png" width="50px">
+                        <img src="redit.png" width="50px"><br>
+                    </div>
+                    <div class="derechos">
+                        <label>Ort Launcher © Todos los derechos reservados</label><br>
+                    </div>
+                    <div class="donaciones">
+                        <label class="donar"><a href="donaciones.php">Donaciones</a></label>
+                        <label class="panas"><a href="nuestra informacion">Sobre Nosotros</a></label>
+                    </div>
+                    
+                </div>                
             </div>
-            <div class="ig">
-                <img src="ig.png" width="50px">
-            </div>
-            <div class="fc">
-                <a href="https://www.wattpad.com/amp/837524206"> <img src="fc.png" width="50px"></a>
-            </div>
-            <div class="redit">
-                <img src="redit.png" width="52px">
-            </div>
-            <label class="copy">Ort Launcher © Todos los derechos reservados</label>
-            <label class="donar"><a href="http://localhost/ANTEPROYECTO/donaciones.php">Donaciones</a></label>
-            <label class="panas"><a href="nuestra informacion">Sobre Nosotros</a></label>
-      </footer>
+            
+        </footer>
 </body>
 </html>
